@@ -2,7 +2,9 @@ package demo_0613yanhao;
 
 public class test {
     public static void main(String[] args) {
-		//Êä³öhello word
+		//ï¿½ï¿½ï¿½hello word
     	System.out.println("hello word");
+    	
+    	
 	}
 }
